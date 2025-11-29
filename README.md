@@ -1,16 +1,25 @@
-## Hi there 👋
+<h1 align="center">👋 Akshay Gupta</h1>
+<h3 align="center">Senior Integrations Consultant | MuleSoft Specialist</h3>
 
-<!--
-**akshyguptaa/akshyguptaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">Excited about anything tech. Always building, always learning.</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧰 Tech Stack
+<p>
+  <img src="https://img.shields.io/badge/MuleSoft-0275D8?style=for-the-badge&logo=mulesoft&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/DataWeave-0A0A0A?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Golang-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
+</p>
+
+---
+
+### 🌱 Currently Learning
+- Golang fundamentals  
+- Systems design for integrations  
+
+---
+
+### 📫 Connect
+- LinkedIn: https://www.linkedin.com/in/akshyguptaa
